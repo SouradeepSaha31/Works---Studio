@@ -1,13 +1,7 @@
-/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v8.4.14,
-* Autoprefixer: v10.4.7
-* Browsers: last 4 version
-*/
 
 @font-face {
     font-family: freight;
-    src: url(./Freight\ Big\ Pro\ Light.otf);
+    src: url(./Freight\ Big\ Pro\ Light.woff2);
 }
 *{
     margin: 0;
