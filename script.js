@@ -254,6 +254,10 @@ h1s.forEach(function(h1, ele){
         var image = elem.getAttribute("data-image")
         page2.style.backgroundImage = `url(${image})`
     })
+    h1.addEventListener("mouseleave", function(){
+        // var image = elem.getAttribute("data-image")
+        page2.style.backgroundImage = ``
+    })
     
 })
 
